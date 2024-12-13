@@ -1,0 +1,26 @@
+.card {
+  border: 3px solid black;
+  border-radius: 10px;
+  width: 780px;
+}
+
+.img {
+  background-color: grey;
+  border-radius: 50%;
+  width: 300px;
+}
+
+.imgthumb {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;  
+  align-items: center;
+}
+
+.text {
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+}
